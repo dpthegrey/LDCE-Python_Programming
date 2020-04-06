@@ -1,0 +1,3 @@
+this is a test file that contain words, lol.
+Also we are going to count number of lines and characters
+in this file. Let's try it out.
