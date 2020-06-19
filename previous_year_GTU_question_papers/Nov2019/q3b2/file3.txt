@@ -1,0 +1,5 @@
+This is the content from file1
+Hello from file1.
+This is the file1
+Hello from file2
+This is in file2
